@@ -22,7 +22,6 @@
     <li><a href="https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt">AdGuard 移动广告过滤器</a></li>
     <li><a href="https://adguard.com/kb/zh-CN/general/ad-filtering/adguard-filters/">AdGuard 防跟踪保护过滤器</a></li>
     <li><a href="https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_17_TrackParam/filter.txt">AdGuard URL跟踪过滤器</a></li>
-    <li><a href="https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_4_Social/filter.txt">AdGuard 社交媒体过滤器</a></li>
     <li><a href="https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_14_Annoyances/filter.txt">AdGuard 恼人广告过滤器</a></li>
     <li><a href="https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_10_Useful/filter.txt">AdGuard 解除搜索广告和自我推销过滤器</a></li>
     <li><a href="https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_224_Chinese/filter.txt">AdGuard 中文过滤器</a></li>
@@ -31,6 +30,11 @@
     <li><a href="https://github.com/jdlingyu/ad-wars">ad-wars(大圣净化)</a></li>
     <li><a href="https://github.com/TG-Twilight/AWAvenue-Adblock-Rule">AWAvenue-Adblock-Rule</a></li>
     <li><a href="https://github.com/sbwml/halflife-list">halflife-list</a></li>
+    <li><a href="https://raw.githubusercontent.com/Goooler/1024_hosts/master/hosts">1024_hosts</a></li>
+    <li><a href="https://filters.adavoid.org/ultimate-ad-filter.txt">AdBlocker Ultimate</a></li>
+    <li><a href="https://raw.githubusercontent.com/damengzhu/banad/main/jiekouAD.txt">damengzhu/banad</a></li>
+    <li><a href="https://raw.githubusercontent.com/Noyllopa/NoAppDownload/master/NoAppDownload.txt">NoAppDownload</a></li>
+    <li><a href="https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt">CJX's Annoyance List</a></li>
 
 </ul>
 </details>

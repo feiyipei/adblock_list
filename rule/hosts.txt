@@ -1,6 +1,6 @@
 [xndeye Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2023-11-25 00:20:54
+! Last Modified: 2023-11-25 09:10:17
 ! Homepage: https://github.com/xndeye/adblock_list
 ! 👇This Part Merge from: WindowsSpyBlocker (https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt)
 0.0.0.0 bn4sch101120911.wns.windows.com
@@ -3060,6 +3060,7 @@
 127.0.0.1 www.551144.com
 127.0.0.1 pubs2-asia.creativecdn.com
 127.0.0.1 www.sun0062.com
+127.0.0.1 acdn.adnxs.com
 127.0.0.1 s44.cnzz.com
 127.0.0.1 mp8883.com
 127.0.0.1 api.11h5.com
@@ -10180,7 +10181,6 @@
 127.0.0.1 pca.admarketplace.net
 127.0.0.1 adgen.socdm.com
 127.0.0.1 vis.vi-serve.com
-127.0.0.1 acdn.adnxs.com
 127.0.0.1 publisher-event.ads.prd.ie.internal.unity3d.com
 127.0.0.1 swrve.com
 127.0.0.1 events.api.boomtrain.com

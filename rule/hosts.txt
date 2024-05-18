@@ -1,6 +1,6 @@
 [xndeye Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2024-05-18 16:19:28
+! Last Modified: 2024-05-19 00:19:48
 ! Homepage: https://github.com/xndeye/adblock_list
 ! 👇This Part Merge from: WindowsSpyBlocker (https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt)
 0.0.0.0 bn4sch101120911.wns.windows.com
@@ -2497,7 +2497,6 @@
 127.0.0.1 www.800086.com
 127.0.0.1 www.mathtype.cn
 127.0.0.1 buyu9982.com
-127.0.0.1 loadm.exelator.com
 127.0.0.1 cdntest.a8tiyu.com
 127.0.0.1 p.codejumps.com
 127.0.0.1 lehaitv.com
@@ -2579,6 +2578,7 @@
 127.0.0.1 cc.adriver.ru
 127.0.0.1 beta.atas.io
 127.0.0.1 s45.cnzz.com
+127.0.0.1 bidder.criteo.com
 127.0.0.1 zr9996bet.com
 127.0.0.1 d.menwww.com
 127.0.0.1 fh22.com
@@ -3295,7 +3295,6 @@
 127.0.0.1 api.share.baidu.com
 127.0.0.1 jihehuaban.com.cn
 127.0.0.1 www.papapa.tv
-127.0.0.1 dable.io
 127.0.0.1 bk.r-ad.ne.jp
 127.0.0.1 clicklog.moviebox.baofeng.net
 127.0.0.1 hg417.bet
@@ -3668,7 +3667,6 @@
 127.0.0.1 gigaonclick.com
 127.0.0.1 sync.adx.adnxs.com
 127.0.0.1 trc.taboola.com
-127.0.0.1 load77.exelator.com
 127.0.0.1 webtrends.yccdn.com
 127.0.0.1 rosemand.pro
 127.0.0.1 jlifm.org.cn
@@ -4531,6 +4529,7 @@
 127.0.0.1 www.4wad.com
 127.0.0.1 s108.cnzz.com
 127.0.0.1 s37.cnzz.com
+127.0.0.1 usermatch.krxd.net
 127.0.0.1 pl.exoclick.com
 127.0.0.1 91puma.x.yupoo.com
 127.0.0.1 rd.da.netease.com
@@ -4611,7 +4610,6 @@
 127.0.0.1 www.28837777.com
 127.0.0.1 www.tbk-app.com
 127.0.0.1 pinggai5.caixin.com
-127.0.0.1 dpm.demdex.net
 127.0.0.1 fapmeth.com
 127.0.0.1 free.babynameready.com
 127.0.0.1 r1.zemanta.com
@@ -5279,7 +5277,6 @@
 127.0.0.1 medio.com
 127.0.0.1 adzerk.net
 127.0.0.1 a3536.casalemedia.com
-127.0.0.1 bidder.criteo.com
 127.0.0.1 metrics.fedex.com
 127.0.0.1 bluekai.com.edgekey.net
 127.0.0.1 servicer.lentainform.com
@@ -5670,6 +5667,7 @@
 127.0.0.1 app-ab01.marketo.com
 127.0.0.1 parameter.lionmobi.com
 127.0.0.1 ads.perfectaudience.com
+127.0.0.1 dable.io
 127.0.0.1 beacon.lynx.cognitivlabs.com
 127.0.0.1 revmob.com
 127.0.0.1 pub-sdk-cfg.criteo.com
@@ -6782,6 +6780,7 @@
 127.0.0.1 vars.hotjar.com
 127.0.0.1 collect.adsorb.com
 127.0.0.1 rubiconproject.net.akadns.net
+127.0.0.1 loadm.exelator.com
 127.0.0.1 cdn-v3.conductrics.com
 127.0.0.1 us-west.load.exelator.com
 127.0.0.1 firstimpression.io
@@ -7794,7 +7793,6 @@
 127.0.0.1 cmp.uniconsent.com
 127.0.0.1 srv.pixel.parsely.com
 127.0.0.1 s-a.innovid.com
-127.0.0.1 usermatch.krxd.net
 127.0.0.1 api.tappx.com
 127.0.0.1 aan.speedshiftmedia.com
 127.0.0.1 mwzeom.zeotap.com
@@ -7827,6 +7825,7 @@
 127.0.0.1 appsflyer.com
 127.0.0.1 snap.licdn.com
 127.0.0.1 vastproxy.brand.inmobi.com
+127.0.0.1 dpm.demdex.net
 127.0.0.1 uconnect.tealiumiq.com
 127.0.0.1 gc.ds.duapps.com
 127.0.0.1 tdameritrade.demdex.net
@@ -10500,6 +10499,7 @@
 127.0.0.1 widget-cdn.rpxnow.com
 127.0.0.1 onrt.stsdk.vivoglobal.com
 127.0.0.1 tracking.crazyegg.com
+127.0.0.1 load77.exelator.com
 127.0.0.1 app.networkad.net
 127.0.0.1 tr-us.adsmoloco.com
 127.0.0.1 app-ab06.marketo.com

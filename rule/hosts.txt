@@ -1,6 +1,6 @@
 [xndeye Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2024-08-06 16:22:49
+! Last Modified: 2024-08-07 00:23:07
 ! Homepage: https://github.com/xndeye/adblock_list
 ! 👇This Part Merge from: WindowsSpyBlocker (https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt)
 0.0.0.0 bn4sch101120911.wns.windows.com
@@ -671,6 +671,7 @@
 127.0.0.1 yaolan.adsame.com
 127.0.0.1 stat.funshion.net
 127.0.0.1 ads.ign.com
+127.0.0.1 irs01.com
 127.0.0.1 i.w.inmobi.cn
 127.0.0.1 lb.usemaxserver.de
 127.0.0.1 alogus.umeng.com
@@ -773,6 +774,7 @@
 127.0.0.1 lc.getui.com
 127.0.0.1 gas.data.pplive.com
 127.0.0.1 bs.l.qq.com
+127.0.0.1 fms.ipinyou.com
 127.0.0.1 trc.adsage.com
 127.0.0.1 jsmedia.adsame.com
 127.0.0.1 t2.a.market.xiaomi.com
@@ -784,7 +786,6 @@
 127.0.0.1 sm.domob.cn
 127.0.0.1 asp.adsame.com
 127.0.0.1 cbjs.baidu.com
-127.0.0.1 ads2.msn.com
 127.0.0.1 logs.chelaile.net.cn
 127.0.0.1 afs.googlesyndication.com
 127.0.0.1 omgmta.play.ott.video.qq.com
@@ -847,6 +848,7 @@
 127.0.0.1 c2.l.qq.com
 127.0.0.1 nbsdk-baichuan.alicdn.com
 127.0.0.1 cdn.ad.xiaomi.com
+127.0.0.1 vt.ipinyou.com
 127.0.0.1 stnetsdk.appstore.vivo.com.cn
 127.0.0.1 p3.adkwai.com
 127.0.0.1 emoticon.sns.iqiyi.com
@@ -1053,6 +1055,7 @@
 127.0.0.1 letv.irs01.com
 127.0.0.1 www.admaji.com
 127.0.0.1 ad.funp.com
+127.0.0.1 s.jpush.cn
 127.0.0.1 pv.mediav.com
 127.0.0.1 ad1.greedland.net
 127.0.0.1 adx-open-service.youku.com
@@ -1333,6 +1336,7 @@
 127.0.0.1 kepler.jd.com
 127.0.0.1 news.l.qq.com
 127.0.0.1 adashx.ut.amap.com
+127.0.0.1 stats.jpush.cn
 127.0.0.1 ilce.alicdn.com
 127.0.0.1 c.mse.360.cn
 127.0.0.1 mtt.eve.mdt.qq.com
@@ -1345,7 +1349,6 @@
 127.0.0.1 ebp.renren.com
 127.0.0.1 stat2.corp.56.com
 127.0.0.1 mydisplay.ctfile.com
-127.0.0.1 ads.msn.com
 127.0.0.1 x.adpro.cn
 127.0.0.1 mcgi.v.qq.com
 127.0.0.1 mobwsa.ximalaya.com
@@ -2082,6 +2085,7 @@
 127.0.0.1 g.doubleclick.net
 127.0.0.1 cdn.bluebillywig.com
 127.0.0.1 cdn-magiclinks.trackonomics.net
+127.0.0.1 ads2.msn.com
 127.0.0.1 x.dlx.addthis.com
 127.0.0.1 extend.tv
 127.0.0.1 px.britepool.com
@@ -2378,7 +2382,6 @@
 127.0.0.1 4422.api.swrve.com
 127.0.0.1 confiant-integrations.global.ssl.fastly.net
 127.0.0.1 cdn.inskinad.com
-127.0.0.1 stats.jpush.cn
 127.0.0.1 analytics.shareaholic.com
 127.0.0.1 pd.sharethis.com
 127.0.0.1 latency.agoop.net
@@ -3608,7 +3611,6 @@
 127.0.0.1 app-sj14.marketo.com
 127.0.0.1 tags.srv.stackadapt.com
 127.0.0.1 celltick.com
-127.0.0.1 irs01.com
 127.0.0.1 cdn.rlcdn.com
 127.0.0.1 sjrtp2-cdn.marketo.com
 127.0.0.1 pangolin16.isnssdk.com
@@ -3674,7 +3676,6 @@
 127.0.0.1 spl.zeotap.com
 127.0.0.1 policy.rayjump.com
 127.0.0.1 msdk-files.webengage.com
-127.0.0.1 fms.ipinyou.com
 127.0.0.1 applink.mob.com
 127.0.0.1 4706.api.swrve.com
 127.0.0.1 a.idio.co
@@ -3713,7 +3714,6 @@
 127.0.0.1 kake.images.worldnow.com
 127.0.0.1 content-prod3.glance-internal.inmobi.com
 127.0.0.1 sync.aniview.com
-127.0.0.1 vt.ipinyou.com
 127.0.0.1 sync.jivox.com
 127.0.0.1 d.adx.io
 127.0.0.1 pgthetradedeskvideo910663478306.s.moatpixel.com
@@ -4599,7 +4599,6 @@
 127.0.0.1 vaicore.xyz
 127.0.0.1 sync.intentiq.com
 127.0.0.1 avocarrot.com
-127.0.0.1 s.jpush.cn
 127.0.0.1 a.klaviyo.com
 127.0.0.1 wl.aniview.com.edgekey.net
 127.0.0.1 query.fqtag.com
@@ -8026,6 +8025,7 @@
 127.0.0.1 px.tvadsync.com
 127.0.0.1 pssvc.iqzone.com
 127.0.0.1 pushnami.com
+127.0.0.1 ads.msn.com
 127.0.0.1 slckg-nugvu.ads.tremorhub.com
 127.0.0.1 secure-ds.serving-sys.com
 127.0.0.1 trk.atomex.net

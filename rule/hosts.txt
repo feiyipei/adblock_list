@@ -1,6 +1,6 @@
 [xndeye Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2024-09-09 09:35:47
+! Last Modified: 2024-09-09 16:27:00
 ! Homepage: https://github.com/xndeye/adblock_list
 ! 👇This Part Merge from: WindowsSpyBlocker (https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt)
 0.0.0.0 bn4sch101120911.wns.windows.com
@@ -613,7 +613,6 @@
 127.0.0.1 v16.56.com
 127.0.0.1 pc.videoclick.baidu.com
 127.0.0.1 gstat.myzaker.com
-127.0.0.1 ssl.google-analytics.com
 127.0.0.1 adv.madserving.com
 127.0.0.1 notice.iqiyi.com
 127.0.0.1 c2.l.qq.com
@@ -1278,7 +1277,6 @@
 127.0.0.1 ifs.tanx.com
 127.0.0.1 ads.api.vungle.com
 127.0.0.1 orange-dc.youku.com
-127.0.0.1 pasta.esfile.duapps.com
 127.0.0.1 sohutv.m.cn.miaozhen.com
 127.0.0.1 t5.a.market.xiaomi.com
 127.0.0.1 jfdaily.adsame.com
@@ -1630,7 +1628,6 @@
 127.0.0.1 api.exc.mob.com
 127.0.0.1 adshare.toutiao.com
 127.0.0.1 p.medialytics.com
-127.0.0.1 googleads.g.doubleclick.net
 127.0.0.1 app-measurement.com
 127.0.0.1 t1.a.market.xiaomi.com
 127.0.0.1 ads.gionee.com
@@ -1886,7 +1883,6 @@
 127.0.0.1 ads.yimg.com
 127.0.0.1 adashx.ut.ele.me
 127.0.0.1 hzs23.cnzz.com
-127.0.0.1 nrcapi.ssl2.duapps.com
 127.0.0.1 d5.sina.com.cn
 127.0.0.1 public.gdtimg.com
 127.0.0.1 bdapi.ads.oppomobile.com
@@ -2164,6 +2160,7 @@
 127.0.0.1 turn.com.akadns.net
 127.0.0.1 api.sail-personalize.com
 127.0.0.1 cdn-f.adsmoloco.com
+127.0.0.1 ssl.google-analytics.com
 127.0.0.1 adjar.gotrackier.com
 127.0.0.1 i.mixadvert.com
 127.0.0.1 images.aspireclicks.com
@@ -3152,6 +3149,7 @@
 127.0.0.1 dsp-d.ants.vn
 127.0.0.1 moatads.com
 127.0.0.1 soma-assets.smaato.net
+127.0.0.1 ads.yap.yahoo.com
 127.0.0.1 common.duapps.com
 127.0.0.1 samyonews-d.openx.net
 127.0.0.1 bs-geo.dvgtm.akadns.net
@@ -3436,6 +3434,7 @@
 127.0.0.1 strtrk.adacado.com
 127.0.0.1 config.claspws.tv
 127.0.0.1 qc.smartadserver.com
+127.0.0.1 nrcapi.ssl2.duapps.com
 127.0.0.1 rt.adtiming.com
 127.0.0.1 config.unityads.unity3d.com
 127.0.0.1 hw-cdn.contentabc.com
@@ -5786,6 +5785,7 @@
 127.0.0.1 tnc16-useast1a.isnssdk.com
 127.0.0.1 owb101.goo.ne.jp
 127.0.0.1 config.sdk.scopely.io
+127.0.0.1 ads.yieldmo.com
 127.0.0.1 sync.adap.tv
 127.0.0.1 adserver.iprom.net
 127.0.0.1 ext-inv-cdn.prod.cloud.ogury.io
@@ -7643,6 +7643,7 @@
 127.0.0.1 consent-manager-events.ogury.io
 127.0.0.1 vid-io-iad.springserve.com
 127.0.0.1 sdkapi.kookong.com
+127.0.0.1 pasta.esfile.duapps.com
 127.0.0.1 ad-im-cmg.streamguys1.com
 127.0.0.1 m.adnxs.com
 127.0.0.1 sec-citi.bridgetrack.com
@@ -8002,6 +8003,7 @@
 127.0.0.1 cws-iad1.conviva.com
 127.0.0.1 pixel.sojern.com
 127.0.0.1 content-thumbnail.cxpublic.com
+127.0.0.1 googleads.g.doubleclick.net
 127.0.0.1 app-sji.marketo.com
 127.0.0.1 cdn.krxd.net
 127.0.0.1 widget.engageya.com
@@ -9524,7 +9526,6 @@
 127.0.0.1 rekovers.ru
 127.0.0.1 sha2024.com
 127.0.0.1 trackadsb1.com
-127.0.0.1 ads.yieldmo.com
 127.0.0.1 get-fuck-tonight-us4-foryou.dailynews.ovh
 127.0.0.1 fanqianbb.com
 127.0.0.1 ck.jads.co
@@ -10569,7 +10570,6 @@
 127.0.0.1 www.wangketuan.com
 127.0.0.1 www.zzxbn.com
 127.0.0.1 act.commercial.shouji.360.cn
-127.0.0.1 ads.yap.yahoo.com
 127.0.0.1 ad.adultfriendfinder.com
 127.0.0.1 go.padsdel.com
 127.0.0.1 newsupdatedir.info

@@ -1,6 +1,6 @@
 [xndeye Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2024-09-11 09:26:05
+! Last Modified: 2024-09-11 16:26:01
 ! Homepage: https://github.com/xndeye/adblock_list
 ! 👇This Part Merge from: WindowsSpyBlocker (https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt)
 0.0.0.0 bn4sch101120911.wns.windows.com
@@ -498,6 +498,7 @@
 127.0.0.1 pagead46.l.doubleclick.net
 127.0.0.1 a.baidu.com
 127.0.0.1 ad.us.sinaimg.cn
+127.0.0.1 ad.leadboltapps.net
 127.0.0.1 tools.3g.qq.com
 127.0.0.1 v3-ad.ixigua.com
 127.0.0.1 paopao3.qiyipic.com
@@ -544,7 +545,6 @@
 127.0.0.1 ykugc.cp31.ott.cibntv.net.302.myalicdn.com
 127.0.0.1 y.da.mgtv.com
 127.0.0.1 cl2.webterren.com
-127.0.0.1 pub.funshion.com
 127.0.0.1 dev.umeng.com
 127.0.0.1 ad.caiyunapp.com
 127.0.0.1 dfe.mic.mob.com
@@ -774,7 +774,6 @@
 127.0.0.1 lc.getui.com
 127.0.0.1 gas.data.pplive.com
 127.0.0.1 bs.l.qq.com
-127.0.0.1 fms.ipinyou.com
 127.0.0.1 trc.adsage.com
 127.0.0.1 jsmedia.adsame.com
 127.0.0.1 t2.a.market.xiaomi.com
@@ -989,6 +988,7 @@
 127.0.0.1 res.aduu.cn
 127.0.0.1 letv.axp.admaster.com.cn
 127.0.0.1 adashx4yt.m.taobao.com
+127.0.0.1 g.koowo.com
 127.0.0.1 adstore-1252524079.file.myqcloud.com
 127.0.0.1 c.admob.com
 127.0.0.1 tobapplog.ctobsnssdk.com
@@ -1054,6 +1054,7 @@
 127.0.0.1 letv.irs01.com
 127.0.0.1 www.admaji.com
 127.0.0.1 ad.funp.com
+127.0.0.1 s.jpush.cn
 127.0.0.1 pv.mediav.com
 127.0.0.1 ad1.greedland.net
 127.0.0.1 adx-open-service.youku.com
@@ -1106,7 +1107,6 @@
 127.0.0.1 epp.2polj.top
 127.0.0.1 ggx01.miguvideo.com
 127.0.0.1 ad.toutiao.com
-127.0.0.1 sdk.open.talk.gepush.com
 127.0.0.1 m1.ad.10010.com
 127.0.0.1 aos.wall.youmi.net
 127.0.0.1 8chzga.v.admaster.com.cn
@@ -1201,6 +1201,7 @@
 127.0.0.1 vbaof.admaster.com.cn
 127.0.0.1 t.l.qq.com
 127.0.0.1 jqmt.qq.com
+127.0.0.1 ads.pubmatic.com
 127.0.0.1 max.adsame.com
 127.0.0.1 caixin.adsame.com
 127.0.0.1 ls.l.qq.com
@@ -1334,6 +1335,7 @@
 127.0.0.1 kepler.jd.com
 127.0.0.1 news.l.qq.com
 127.0.0.1 adashx.ut.amap.com
+127.0.0.1 stats.jpush.cn
 127.0.0.1 ilce.alicdn.com
 127.0.0.1 c.mse.360.cn
 127.0.0.1 mtt.eve.mdt.qq.com
@@ -1735,7 +1737,6 @@
 127.0.0.1 api.yidaomobi.com
 127.0.0.1 midas-tracker.hellay.net
 127.0.0.1 dataf.ads.oppomobile.com
-127.0.0.1 sdk.open.talk.getui.net
 127.0.0.1 cdn.pyadx.com
 127.0.0.1 xray.jebe.renren.com
 127.0.0.1 awake-stats.jpush.cn
@@ -2380,7 +2381,6 @@
 127.0.0.1 4422.api.swrve.com
 127.0.0.1 confiant-integrations.global.ssl.fastly.net
 127.0.0.1 cdn.inskinad.com
-127.0.0.1 stats.jpush.cn
 127.0.0.1 analytics.shareaholic.com
 127.0.0.1 pd.sharethis.com
 127.0.0.1 latency.agoop.net
@@ -2975,7 +2975,6 @@
 127.0.0.1 secure.gooddata.com
 127.0.0.1 as.criteo.com
 127.0.0.1 popup.taboola.com
-127.0.0.1 g.koowo.com
 127.0.0.1 blink.fra-01.braze.eu
 127.0.0.1 iris.tv
 127.0.0.1 fyc.heyzap.com
@@ -3089,7 +3088,6 @@
 127.0.0.1 engageya.com
 127.0.0.1 in-spiky.wzrkt.com
 127.0.0.1 profile-api-prod-elb.53.localytics.com
-127.0.0.1 ads.pubmatic.com
 127.0.0.1 dailymotion-cs.vpadn.com
 127.0.0.1 167154.engine.mobileapptracking.com
 127.0.0.1 cdn.ayads.co
@@ -3677,6 +3675,7 @@
 127.0.0.1 spl.zeotap.com
 127.0.0.1 policy.rayjump.com
 127.0.0.1 msdk-files.webengage.com
+127.0.0.1 fms.ipinyou.com
 127.0.0.1 applink.mob.com
 127.0.0.1 4706.api.swrve.com
 127.0.0.1 a.idio.co
@@ -3842,6 +3841,7 @@
 127.0.0.1 startappservice.com
 127.0.0.1 remarketingpixel.com
 127.0.0.1 advancelocal.blueconic.net
+127.0.0.1 sdk.open.talk.gepush.com
 127.0.0.1 iotapi.adups.com
 127.0.0.1 ws.inspectlet.com
 127.0.0.1 pangle.io.edgekey.net
@@ -4599,7 +4599,6 @@
 127.0.0.1 vaicore.xyz
 127.0.0.1 sync.intentiq.com
 127.0.0.1 avocarrot.com
-127.0.0.1 s.jpush.cn
 127.0.0.1 a.klaviyo.com
 127.0.0.1 wl.aniview.com.edgekey.net
 127.0.0.1 query.fqtag.com
@@ -5795,6 +5794,7 @@
 127.0.0.1 metrics.sdkbox.com
 127.0.0.1 tags.bluekai.com
 127.0.0.1 geoplugin.net
+127.0.0.1 sdk.open.talk.getui.net
 127.0.0.1 telemetry.api.swiftkey.com
 127.0.0.1 ads.dofunapps.com
 127.0.0.1 cdn4.mxpnl.com
@@ -6763,7 +6763,6 @@
 127.0.0.1 cdn.advertserve.com
 127.0.0.1 pg-prebid-server-aws-ane1.rubiconproject.com
 127.0.0.1 teads.tv.edgekey.net
-127.0.0.1 ad.leadboltapps.net
 127.0.0.1 creative.metalyzer.com
 127.0.0.1 widget-pixels.outbrain.com
 127.0.0.1 morgdog.springserve.com
@@ -6799,6 +6798,7 @@
 127.0.0.1 remote-data.urbanairship.com
 127.0.0.1 c1exchange.com
 127.0.0.1 r.teads.tv
+127.0.0.1 pub.funshion.com
 127.0.0.1 vap5ewr1.lijit.com
 127.0.0.1 mp.teads.tv
 127.0.0.1 doubleclick.net

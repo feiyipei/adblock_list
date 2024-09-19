@@ -1,6 +1,6 @@
 [xndeye Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2024-09-19 09:35:30
+! Last Modified: 2024-09-19 16:26:07
 ! Homepage: https://github.com/xndeye/adblock_list
 ! 👇This Part Merge from: WindowsSpyBlocker (https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt)
 0.0.0.0 bn4sch101120911.wns.windows.com
@@ -1638,7 +1638,6 @@
 127.0.0.1 api.exc.mob.com
 127.0.0.1 adshare.toutiao.com
 127.0.0.1 p.medialytics.com
-127.0.0.1 googleads.g.doubleclick.net
 127.0.0.1 app-measurement.com
 127.0.0.1 t1.a.market.xiaomi.com
 127.0.0.1 ads.gionee.com
@@ -5341,7 +5340,6 @@
 127.0.0.1 smetrics.foxnews.com
 127.0.0.1 ads-api-new-2052271615.ap-northeast-1.elb.amazonaws.com
 127.0.0.1 imp-lb-us2.jampp.com
-127.0.0.1 ads.trafficjunky.net
 127.0.0.1 ib.anycast.adnxs.com
 127.0.0.1 digitru.st
 127.0.0.1 bannersnack.com
@@ -8001,6 +7999,7 @@
 127.0.0.1 cws-iad1.conviva.com
 127.0.0.1 pixel.sojern.com
 127.0.0.1 content-thumbnail.cxpublic.com
+127.0.0.1 googleads.g.doubleclick.net
 127.0.0.1 app-sji.marketo.com
 127.0.0.1 cdn.krxd.net
 127.0.0.1 widget.engageya.com
@@ -8772,6 +8771,7 @@
 127.0.0.1 media.adsymptotic.com
 127.0.0.1 appgasstation.com
 127.0.0.1 ad5.contentabc.com
+127.0.0.1 ads.trafficjunky.net
 127.0.0.1 ad6.contentabc.com
 127.0.0.1 www.800086.com
 127.0.0.1 www.mathtype.cn

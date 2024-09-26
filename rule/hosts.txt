@@ -1,6 +1,6 @@
 [xndeye Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2024-09-26 00:27:41
+! Last Modified: 2024-09-26 09:37:05
 ! Homepage: https://github.com/xndeye/adblock_list
 ! 👇This Part Merge from: WindowsSpyBlocker (https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt)
 0.0.0.0 bn4sch101120911.wns.windows.com
@@ -386,6 +386,7 @@
 127.0.0.1 ana.masky.biddingx.com
 127.0.0.1 ads.ttv.com.tw
 127.0.0.1 ww362.smartadserver.com
+127.0.0.1 p.l.qq.com
 127.0.0.1 adc.hpplay.cn
 127.0.0.1 hmma.baidu.com
 127.0.0.1 autobild.adsame.com
@@ -427,6 +428,7 @@
 127.0.0.1 s.360.cn
 127.0.0.1 inneractive-assets.s3.amazonaws.com
 127.0.0.1 sambasys.adsame.com
+127.0.0.1 widgets.outbrain.com
 127.0.0.1 stat2.openinstall.io
 127.0.0.1 ssp-event.domob.cn
 127.0.0.1 sitemonitor.cn.miaozhen.com
@@ -495,6 +497,7 @@
 127.0.0.1 pagead46.l.doubleclick.net
 127.0.0.1 a.baidu.com
 127.0.0.1 ad.us.sinaimg.cn
+127.0.0.1 tools.3g.qq.com
 127.0.0.1 v3-ad.ixigua.com
 127.0.0.1 paopao3.qiyipic.com
 127.0.0.1 ad.player.baidu.com
@@ -677,6 +680,7 @@
 127.0.0.1 st.appsad.cn
 127.0.0.1 localhost
 127.0.0.1 app-tj.adinall.com
+127.0.0.1 net.rayjump.com
 127.0.0.1 paopao2.qiyipic.com
 127.0.0.1 dup.baidustatic.com
 127.0.0.1 b1.ads.oppomobile.com
@@ -843,6 +847,7 @@
 127.0.0.1 adsmind.apdcdn.tc.qq.com
 127.0.0.1 umengacs.m.taobao.com
 127.0.0.1 spl.ztvx8.com
+127.0.0.1 sdk.e.qq.com
 127.0.0.1 alog.umengcloud.com
 127.0.0.1 baiducdncmn-gd.inter.iqiyi.com
 127.0.0.1 durdcn.doglobal.net
@@ -870,6 +875,7 @@
 127.0.0.1 ccdace.hupu.com
 127.0.0.1 zs4.cnzz.com
 127.0.0.1 dspwin.adsame.com
+127.0.0.1 e.qq.com
 127.0.0.1 ad.where.com
 127.0.0.1 s6.cnzz.com
 127.0.0.1 ads.waps.cn
@@ -937,6 +943,7 @@
 127.0.0.1 xinhuanet.adsame.com
 127.0.0.1 zs10.cnzz.com
 127.0.0.1 z10.cnzz.com
+127.0.0.1 data-id.ads.oppomobile.com
 127.0.0.1 item.mediav.com
 127.0.0.1 cnf.adbana.com
 127.0.0.1 stadig.ifeng.com
@@ -1050,6 +1057,7 @@
 127.0.0.1 adimages.sina.com.hk
 127.0.0.1 ys.da.mgtv.com
 127.0.0.1 adstore-index-1252524079.file.myqcloud.com
+127.0.0.1 android.bugly.qq.com
 127.0.0.1 bill.agent.56.com
 127.0.0.1 p1-lm.adkwai.com
 127.0.0.1 keybut.com
@@ -1082,6 +1090,7 @@
 127.0.0.1 platform.adwep.com
 127.0.0.1 hybl9bazbc35.pflexads.com
 127.0.0.1 p2sdmkj6t.bkt.clouddn.com
+127.0.0.1 ads.servebom.com
 127.0.0.1 s.domob.cn
 127.0.0.1 epp.2polj.top
 127.0.0.1 ggx01.miguvideo.com
@@ -1122,6 +1131,7 @@
 127.0.0.1 netdna.reporo.net
 127.0.0.1 8b4pea.c.admaster.com.cn
 127.0.0.1 aa1.pub.funshion.com
+127.0.0.1 adx-tk.rayjump.com
 127.0.0.1 a.dounanhuahui.com
 127.0.0.1 tuijian.baidu.com
 127.0.0.1 xiaomi.m.cn.miaozhen.com
@@ -1179,6 +1189,7 @@
 127.0.0.1 vbaof.admaster.com.cn
 127.0.0.1 t.l.qq.com
 127.0.0.1 jqmt.qq.com
+127.0.0.1 ads.pubmatic.com
 127.0.0.1 max.adsame.com
 127.0.0.1 caixin.adsame.com
 127.0.0.1 ls.l.qq.com
@@ -1250,6 +1261,7 @@
 127.0.0.1 x.adnet.qq.com
 127.0.0.1 update0.aiclk.com
 127.0.0.1 unidesk.alicdn.com
+127.0.0.1 adeventtracker.spotify.com
 127.0.0.1 c.cnzz.com
 127.0.0.1 show.buzzcity.net
 127.0.0.1 static.g.pptv.com
@@ -1408,6 +1420,7 @@
 127.0.0.1 tangram.e.qq.com
 127.0.0.1 a.qchannel03.cn
 127.0.0.1 abtest-ch.snssdk.com
+127.0.0.1 masdk.3g.qq.com
 127.0.0.1 c-gi.getui.com
 127.0.0.1 me.xdrig.com
 127.0.0.1 adclick.g.doubleclick.net
@@ -1449,6 +1462,7 @@
 127.0.0.1 changyan.sohu.com
 127.0.0.1 lp.mydas.mobi
 127.0.0.1 adashx.m.taobao.com
+127.0.0.1 ads.stickyadstv.com
 127.0.0.1 h-adashx.ut.ele.me
 127.0.0.1 gxbr.cnzz.com
 127.0.0.1 y76.ylems.club
@@ -1907,7 +1921,6 @@
 127.0.0.1 app-sj09.marketo.com
 127.0.0.1 cdn-api.admost.com
 127.0.0.1 img.connatix.com
-127.0.0.1 tools.3g.qq.com
 127.0.0.1 static.amplitude.com
 127.0.0.1 track.leanlab.co
 127.0.0.1 prebid-server.rubiconproject.com
@@ -2426,7 +2439,6 @@
 127.0.0.1 worker21.advertnative.com
 127.0.0.1 surveys.insightexpressai.com
 127.0.0.1 sjrtp5.marketo.com
-127.0.0.1 ads.stickyadstv.com
 127.0.0.1 smetrics.boston.com
 127.0.0.1 dsp.batmobi.net
 127.0.0.1 rtp-static.marketo.com
@@ -2795,7 +2807,6 @@
 127.0.0.1 api.popin.cc
 127.0.0.1 sjc-bid.contextweb.com
 127.0.0.1 analytics.bestbuy.com
-127.0.0.1 net.rayjump.com
 127.0.0.1 cm.ipinyou.com
 127.0.0.1 ssptrk.adpopcorn.com
 127.0.0.1 adserver.adtechjp.com
@@ -3022,7 +3033,6 @@
 127.0.0.1 media.go2speed.org
 127.0.0.1 tags.viewdeos.com
 127.0.0.1 verizon.demdex.net
-127.0.0.1 ads.servebom.com
 127.0.0.1 blisspoint.us-west-2.stinger-ad.bidr.io
 127.0.0.1 a3795.casalemedia.com
 127.0.0.1 tml.clmbtech.com
@@ -3065,7 +3075,6 @@
 127.0.0.1 engageya.com
 127.0.0.1 in-spiky.wzrkt.com
 127.0.0.1 profile-api-prod-elb.53.localytics.com
-127.0.0.1 ads.pubmatic.com
 127.0.0.1 dailymotion-cs.vpadn.com
 127.0.0.1 167154.engine.mobileapptracking.com
 127.0.0.1 cdn.ayads.co
@@ -3834,7 +3843,6 @@
 127.0.0.1 statcollector.sidearmsports.com
 127.0.0.1 rules.aatkit.com
 127.0.0.1 rtb.openx.net
-127.0.0.1 adx-tk.rayjump.com
 127.0.0.1 i2i.jp
 127.0.0.1 analytics.picsart.com
 127.0.0.1 code.metalocator.com
@@ -4235,7 +4243,6 @@
 127.0.0.1 ark.letv.com
 127.0.0.1 za-gmtdmp.mookie1.com
 127.0.0.1 mobilelog.upqzfile.com
-127.0.0.1 widgets.outbrain.com
 127.0.0.1 update.stickyadstv.com
 127.0.0.1 outcome-ssp.supersonicads.com
 127.0.0.1 unityads.unity3d.com.edgekey.net
@@ -4790,7 +4797,6 @@
 127.0.0.1 c1.popads.net
 127.0.0.1 tvpixel.com
 127.0.0.1 a1365.casalemedia.com
-127.0.0.1 masdk.3g.qq.com
 127.0.0.1 btrll.com
 127.0.0.1 x.skimresources.com
 127.0.0.1 topapps-func.pinsightmedia.com
@@ -5291,7 +5297,6 @@
 127.0.0.1 eastevents.simpli.fi
 127.0.0.1 cdn-cf.postitial.com
 127.0.0.1 choices.trustarc.com
-127.0.0.1 sdk.e.qq.com
 127.0.0.1 beacon.sojern.com
 127.0.0.1 s.update.wo.gumgum.com
 127.0.0.1 app-ab27.marketo.com
@@ -7071,7 +7076,6 @@
 127.0.0.1 conf.smartnews-ads.com
 127.0.0.1 ad.atdmt.com
 127.0.0.1 events.aerserv.com
-127.0.0.1 android.bugly.qq.com
 127.0.0.1 segment-data.zqtk.net
 127.0.0.1 a1020.casalemedia.com
 127.0.0.1 auctera.gotrackier.com
@@ -7165,7 +7169,6 @@
 127.0.0.1 comet.yahoo.com
 127.0.0.1 video.upqzfile.com
 127.0.0.1 mpluswf.ims.vodafone.com
-127.0.0.1 adeventtracker.spotify.com
 127.0.0.1 bat.bing.com
 127.0.0.1 customer.cludo.com
 127.0.0.1 sjrtp7-cdn.marketo.com
@@ -7481,7 +7484,6 @@
 127.0.0.1 traktum.com
 127.0.0.1 widget.secure.ownlocal.com
 127.0.0.1 api.smbeat.jp
-127.0.0.1 p.l.qq.com
 127.0.0.1 cdn.bizible.com
 127.0.0.1 branch.io
 127.0.0.1 tt.onthe.io
@@ -7759,7 +7761,6 @@
 127.0.0.1 geo.query.yahoo.com
 127.0.0.1 app-ab31.marketo.com
 127.0.0.1 tracking.feedmob.com
-127.0.0.1 e.qq.com
 127.0.0.1 nexac.com
 127.0.0.1 yax-winners-us-west-2-rtb.adroll.com
 127.0.0.1 sdkuaservice.optimove.net
@@ -7799,7 +7800,6 @@
 127.0.0.1 ms.applovin.com
 127.0.0.1 cdn.tagcommander.com
 127.0.0.1 slckg-qrmhc.ads.tremorhub.com
-127.0.0.1 data-id.ads.oppomobile.com
 127.0.0.1 optaim.com
 127.0.0.1 rambler.pushwoosh.com
 127.0.0.1 interstitial.fyber.com

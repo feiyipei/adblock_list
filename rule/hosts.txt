@@ -1,6 +1,6 @@
 [xndeye Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2024-10-22 16:26:31
+! Last Modified: 2024-10-23 00:26:15
 ! Homepage: https://github.com/xndeye/adblock_list
 ! 👇This Part Merge from: WindowsSpyBlocker (https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt)
 0.0.0.0 bn4sch101120911.wns.windows.com
@@ -387,7 +387,6 @@
 127.0.0.1 ana.masky.biddingx.com
 127.0.0.1 ads.ttv.com.tw
 127.0.0.1 ww362.smartadserver.com
-127.0.0.1 p.l.qq.com
 127.0.0.1 adc.hpplay.cn
 127.0.0.1 hmma.baidu.com
 127.0.0.1 autobild.adsame.com
@@ -498,7 +497,6 @@
 127.0.0.1 pagead46.l.doubleclick.net
 127.0.0.1 a.baidu.com
 127.0.0.1 ad.us.sinaimg.cn
-127.0.0.1 tools.3g.qq.com
 127.0.0.1 v3-ad.ixigua.com
 127.0.0.1 paopao3.qiyipic.com
 127.0.0.1 ad.player.baidu.com
@@ -850,7 +848,6 @@
 127.0.0.1 adsmind.apdcdn.tc.qq.com
 127.0.0.1 umengacs.m.taobao.com
 127.0.0.1 spl.ztvx8.com
-127.0.0.1 sdk.e.qq.com
 127.0.0.1 alog.umengcloud.com
 127.0.0.1 baiducdncmn-gd.inter.iqiyi.com
 127.0.0.1 durdcn.doglobal.net
@@ -878,7 +875,6 @@
 127.0.0.1 ccdace.hupu.com
 127.0.0.1 zs4.cnzz.com
 127.0.0.1 dspwin.adsame.com
-127.0.0.1 e.qq.com
 127.0.0.1 ad.where.com
 127.0.0.1 s6.cnzz.com
 127.0.0.1 ads.waps.cn
@@ -1061,7 +1057,6 @@
 127.0.0.1 adimages.sina.com.hk
 127.0.0.1 ys.da.mgtv.com
 127.0.0.1 adstore-index-1252524079.file.myqcloud.com
-127.0.0.1 android.bugly.qq.com
 127.0.0.1 bill.agent.56.com
 127.0.0.1 p1-lm.adkwai.com
 127.0.0.1 keybut.com
@@ -1425,7 +1420,6 @@
 127.0.0.1 tangram.e.qq.com
 127.0.0.1 a.qchannel03.cn
 127.0.0.1 abtest-ch.snssdk.com
-127.0.0.1 masdk.3g.qq.com
 127.0.0.1 c-gi.getui.com
 127.0.0.1 me.xdrig.com
 127.0.0.1 adclick.g.doubleclick.net
@@ -1928,6 +1922,7 @@
 127.0.0.1 app-sj09.marketo.com
 127.0.0.1 cdn-api.admost.com
 127.0.0.1 img.connatix.com
+127.0.0.1 tools.3g.qq.com
 127.0.0.1 static.amplitude.com
 127.0.0.1 track.leanlab.co
 127.0.0.1 prebid-server.rubiconproject.com
@@ -3097,7 +3092,6 @@
 127.0.0.1 dsp-d.ants.vn
 127.0.0.1 moatads.com
 127.0.0.1 soma-assets.smaato.net
-127.0.0.1 ads.yap.yahoo.com
 127.0.0.1 common.duapps.com
 127.0.0.1 samyonews-d.openx.net
 127.0.0.1 bs-geo.dvgtm.akadns.net
@@ -4799,6 +4793,7 @@
 127.0.0.1 c1.popads.net
 127.0.0.1 tvpixel.com
 127.0.0.1 a1365.casalemedia.com
+127.0.0.1 masdk.3g.qq.com
 127.0.0.1 btrll.com
 127.0.0.1 x.skimresources.com
 127.0.0.1 topapps-func.pinsightmedia.com
@@ -5299,6 +5294,7 @@
 127.0.0.1 eastevents.simpli.fi
 127.0.0.1 cdn-cf.postitial.com
 127.0.0.1 choices.trustarc.com
+127.0.0.1 sdk.e.qq.com
 127.0.0.1 beacon.sojern.com
 127.0.0.1 s.update.wo.gumgum.com
 127.0.0.1 app-ab27.marketo.com
@@ -5762,7 +5758,6 @@
 127.0.0.1 tnc16-useast1a.isnssdk.com
 127.0.0.1 owb101.goo.ne.jp
 127.0.0.1 config.sdk.scopely.io
-127.0.0.1 ads.yieldmo.com
 127.0.0.1 sync.adap.tv
 127.0.0.1 adserver.iprom.net
 127.0.0.1 ext-inv-cdn.prod.cloud.ogury.io
@@ -7076,6 +7071,7 @@
 127.0.0.1 conf.smartnews-ads.com
 127.0.0.1 ad.atdmt.com
 127.0.0.1 events.aerserv.com
+127.0.0.1 android.bugly.qq.com
 127.0.0.1 segment-data.zqtk.net
 127.0.0.1 a1020.casalemedia.com
 127.0.0.1 auctera.gotrackier.com
@@ -7484,6 +7480,7 @@
 127.0.0.1 traktum.com
 127.0.0.1 widget.secure.ownlocal.com
 127.0.0.1 api.smbeat.jp
+127.0.0.1 p.l.qq.com
 127.0.0.1 cdn.bizible.com
 127.0.0.1 branch.io
 127.0.0.1 tt.onthe.io
@@ -7761,6 +7758,7 @@
 127.0.0.1 geo.query.yahoo.com
 127.0.0.1 app-ab31.marketo.com
 127.0.0.1 tracking.feedmob.com
+127.0.0.1 e.qq.com
 127.0.0.1 nexac.com
 127.0.0.1 yax-winners-us-west-2-rtb.adroll.com
 127.0.0.1 sdkuaservice.optimove.net
@@ -9526,6 +9524,7 @@
 127.0.0.1 rekovers.ru
 127.0.0.1 sha2024.com
 127.0.0.1 trackadsb1.com
+127.0.0.1 ads.yieldmo.com
 127.0.0.1 get-fuck-tonight-us4-foryou.dailynews.ovh
 127.0.0.1 fanqianbb.com
 127.0.0.1 ck.jads.co
@@ -10570,6 +10569,7 @@
 127.0.0.1 www.wangketuan.com
 127.0.0.1 www.zzxbn.com
 127.0.0.1 act.commercial.shouji.360.cn
+127.0.0.1 ads.yap.yahoo.com
 127.0.0.1 ad.adultfriendfinder.com
 127.0.0.1 go.padsdel.com
 127.0.0.1 newsupdatedir.info

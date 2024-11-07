@@ -1,6 +1,6 @@
 [xndeye Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2024-11-07 00:25:14
+! Last Modified: 2024-11-07 09:36:36
 ! Homepage: https://github.com/xndeye/adblock_list
 ! 👇This Part Merge from: WindowsSpyBlocker (https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt)
 0.0.0.0 bn4sch101120911.wns.windows.com
@@ -1385,7 +1385,6 @@
 127.0.0.1 ort.stsdk.vivo.com.cn
 127.0.0.1 cdn1.smartadserver.com
 127.0.0.1 h-adashx.ut.youku.com
-127.0.0.1 ad-delivery.net
 127.0.0.1 lc.getui.com
 127.0.0.1 gas.data.pplive.com
 127.0.0.1 config.inmobi.com
@@ -2108,6 +2107,7 @@
 127.0.0.1 secure.exoclick.com
 127.0.0.1 tt4647.com
 127.0.0.1 xin.9779929.com
+127.0.0.1 sync-tm.everesttech.net
 127.0.0.1 sync.adsrvmedia.adk2x.com
 127.0.0.1 watchmygirlfriend.gfpornmovies.com
 127.0.0.1 ads.exdynsrv.com
@@ -2971,7 +2971,6 @@
 127.0.0.1 count17.51yes.com
 127.0.0.1 s138.cnzz.com
 127.0.0.1 www.jihehuaban.com.cn
-127.0.0.1 bttrack.com
 127.0.0.1 dtscout.rtb.adx1.com
 127.0.0.1 www.qbdgame.com
 127.0.0.1 wds.inte.sogoucdn.com
@@ -4077,6 +4076,7 @@
 127.0.0.1 spot-01.atas.io
 127.0.0.1 popearn.com
 127.0.0.1 h1.xysibu.cn
+127.0.0.1 static.hotjar.com
 127.0.0.1 cdn.openxt.cn
 127.0.0.1 xiaojinqipai.com
 127.0.0.1 bdyingxiaocms.cdn.bcebos.com
@@ -4409,6 +4409,7 @@
 127.0.0.1 affrh2022.com
 127.0.0.1 ruten.com.tw
 127.0.0.1 update.360safe.com
+127.0.0.1 s10.histats.com
 127.0.0.1 g2.gumgum.com
 127.0.0.1 mo.res.wpscdn.cn
 127.0.0.1 poweredby.jads.co
@@ -4471,6 +4472,7 @@
 127.0.0.1 www.394394.com
 127.0.0.1 ads.ck101.com
 127.0.0.1 wan.panda.tv
+127.0.0.1 rtb.gumgum.com
 127.0.0.1 www.9941777.com
 127.0.0.1 dynsrv.wps.cn
 127.0.0.1 s98.cnzz.com
@@ -4537,7 +4539,6 @@
 127.0.0.1 www.4wad.com
 127.0.0.1 s108.cnzz.com
 127.0.0.1 s37.cnzz.com
-127.0.0.1 usermatch.krxd.net
 127.0.0.1 pl.exoclick.com
 127.0.0.1 91puma.x.yupoo.com
 127.0.0.1 rd.da.netease.com
@@ -4619,7 +4620,6 @@
 127.0.0.1 www.28837777.com
 127.0.0.1 www.tbk-app.com
 127.0.0.1 pinggai5.caixin.com
-127.0.0.1 dpm.demdex.net
 127.0.0.1 fapmeth.com
 127.0.0.1 free.babynameready.com
 127.0.0.1 r1.zemanta.com
@@ -5509,6 +5509,7 @@
 127.0.0.1 events.tabmo.io
 127.0.0.1 fcanr.tracking.miui.com
 127.0.0.1 mozbar.moz.com
+127.0.0.1 bttrack.com
 127.0.0.1 partner.knorex.com
 127.0.0.1 pie.wirelessregistry.com
 127.0.0.1 bktr2-06hdl.ads.tremorhub.com
@@ -6235,7 +6236,6 @@
 127.0.0.1 yt.mmstat.com
 127.0.0.1 eum-orange-saas.instana.io
 127.0.0.1 rtr.innovid.com
-127.0.0.1 rtb.gumgum.com
 127.0.0.1 rat.nl.eu.criteo.com
 127.0.0.1 gateway.ttpsdk.info
 127.0.0.1 d.adsplay.net
@@ -7800,6 +7800,7 @@
 127.0.0.1 cmp.uniconsent.com
 127.0.0.1 srv.pixel.parsely.com
 127.0.0.1 s-a.innovid.com
+127.0.0.1 usermatch.krxd.net
 127.0.0.1 api.tappx.com
 127.0.0.1 aan.speedshiftmedia.com
 127.0.0.1 mwzeom.zeotap.com
@@ -7831,6 +7832,7 @@
 127.0.0.1 appsflyer.com
 127.0.0.1 snap.licdn.com
 127.0.0.1 vastproxy.brand.inmobi.com
+127.0.0.1 dpm.demdex.net
 127.0.0.1 uconnect.tealiumiq.com
 127.0.0.1 gc.ds.duapps.com
 127.0.0.1 tdameritrade.demdex.net
@@ -8081,7 +8083,6 @@
 127.0.0.1 track.wattpad.com
 127.0.0.1 fra-col.eum-appdynamics.com
 127.0.0.1 abtesting.perfectcorp.com
-127.0.0.1 sync-tm.everesttech.net
 127.0.0.1 am-wf.taboola.com
 127.0.0.1 jssdks.mparticle.com
 127.0.0.1 directadvert.ru
@@ -9065,6 +9066,7 @@
 127.0.0.1 api.huq.io
 127.0.0.1 cdnimg.izooto.com
 127.0.0.1 redfast.com
+127.0.0.1 ad-delivery.net
 127.0.0.1 va.us.criteo.com
 127.0.0.1 advertica-cdn.com
 127.0.0.1 analytics.libertymutual.com.edgekey.net
@@ -9178,7 +9180,6 @@
 127.0.0.1 adbsc.flyermobi.com
 127.0.0.1 hulu.hb.omtrdc.net
 127.0.0.1 contentapi.celltick.com
-127.0.0.1 static.hotjar.com
 127.0.0.1 thetrafficstat.net
 127.0.0.1 criteo-sync.teads.tv.edgekey.net
 127.0.0.1 snrtp1.marketo.com
@@ -9333,7 +9334,6 @@
 127.0.0.1 vdopia.com
 127.0.0.1 track.linksynergy.com
 127.0.0.1 ads.adthrive.com
-127.0.0.1 s10.histats.com
 127.0.0.1 sgfw.adsafeprotected.com
 127.0.0.1 hb.adscale.de
 127.0.0.1 tempest.services.disqus.com

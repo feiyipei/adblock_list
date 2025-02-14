@@ -1,6 +1,6 @@
 [xndeye Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2025-02-14 00:26:46
+! Last Modified: 2025-02-14 09:37:59
 ! Homepage: https://github.com/xndeye/adblock_list
 ! 👇This Part Merge from: WindowsSpyBlocker (https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt)
 0.0.0.0 bn4sch101120911.wns.windows.com
@@ -2259,6 +2259,7 @@
 127.0.0.1 whatsforsupper-juno.j8inn1zektoe.com
 127.0.0.1 www.203710.com
 127.0.0.1 lowtyroguer.com
+127.0.0.1 optimize.innity.com
 127.0.0.1 update.wps.cn
 127.0.0.1 javbox888.com
 127.0.0.1 clickjs.cnzz.com
@@ -4004,6 +4005,7 @@
 127.0.0.1 guangyukeji.com
 127.0.0.1 www.6dad.com
 127.0.0.1 epoch.com
+127.0.0.1 bcp.crwdcntrl.net
 127.0.0.1 irpmt.mail.163.com
 127.0.0.1 xpj2.net
 127.0.0.1 cs.adxpansion.com
@@ -9144,7 +9146,6 @@
 127.0.0.1 de.inmobi.com
 127.0.0.1 api.maropost.com
 127.0.0.1 wurren.iad-03.braze.com
-127.0.0.1 bcp.crwdcntrl.net
 127.0.0.1 sbux-dl.urbanairship.com
 127.0.0.1 smetrics.bestbuy.com
 127.0.0.1 presage.io
@@ -9778,7 +9779,6 @@
 127.0.0.1 tracking.yomedia.vn
 127.0.0.1 southwestairlines.tt.omtrdc.net
 127.0.0.1 tealiumiq.com
-127.0.0.1 optimize.innity.com
 127.0.0.1 tags.mathtag.com
 127.0.0.1 uefa.pushwoosh.com
 127.0.0.1 iadctest.qwapi.com

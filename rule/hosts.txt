@@ -1,6 +1,6 @@
 [xndeye Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2025-04-02 09:47:40
+! Last Modified: 2025-04-02 16:30:07
 ! Homepage: https://github.com/xndeye/adblock_list
 ! 👇This Part Merge from: WindowsSpyBlocker (https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt)
 0.0.0.0 bn4sch101120911.wns.windows.com
@@ -361,7 +361,6 @@
 127.0.0.1 val.atm.youku.com
 127.0.0.1 ads-a.juicyads.com
 127.0.0.1 ggs.myzaker.com
-127.0.0.1 api.verify.mob.com
 127.0.0.1 ads2.mediaarmor.com
 127.0.0.1 adver.qq.com
 127.0.0.1 api.ad.yipinread.com
@@ -784,7 +783,6 @@
 127.0.0.1 sm.domob.cn
 127.0.0.1 asp.adsame.com
 127.0.0.1 cbjs.baidu.com
-127.0.0.1 ads2.msn.com
 127.0.0.1 logs.chelaile.net.cn
 127.0.0.1 afs.googlesyndication.com
 127.0.0.1 omgmta.play.ott.video.qq.com
@@ -1345,7 +1343,6 @@
 127.0.0.1 ebp.renren.com
 127.0.0.1 stat2.corp.56.com
 127.0.0.1 mydisplay.ctfile.com
-127.0.0.1 ads.msn.com
 127.0.0.1 x.adpro.cn
 127.0.0.1 mcgi.v.qq.com
 127.0.0.1 mobwsa.ximalaya.com
@@ -1416,7 +1413,6 @@
 127.0.0.1 optimus-ads.amap.com
 127.0.0.1 zs14.cnzz.com
 127.0.0.1 d.qchannel03.cn
-127.0.0.1 api.share.mob.com
 127.0.0.1 bu1.duba.com
 127.0.0.1 adserver.yahoo.com
 127.0.0.1 mon.ad.xelements.cn
@@ -2083,6 +2079,7 @@
 127.0.0.1 g.doubleclick.net
 127.0.0.1 cdn.bluebillywig.com
 127.0.0.1 cdn-magiclinks.trackonomics.net
+127.0.0.1 ads2.msn.com
 127.0.0.1 x.dlx.addthis.com
 127.0.0.1 extend.tv
 127.0.0.1 px.britepool.com
@@ -4214,6 +4211,7 @@
 127.0.0.1 sigma-statistics-push.proxima.nie.easebar.com
 127.0.0.1 nextgen.guardianapps.co.uk
 127.0.0.1 cdn.permutive.app
+127.0.0.1 api.verify.mob.com
 127.0.0.1 monitoring-sdk.experimentation.intuit.com
 127.0.0.1 ad.monetate.net
 127.0.0.1 sa.outbrain.com
@@ -7232,6 +7230,7 @@
 127.0.0.1 us-events.api.iheart.com
 127.0.0.1 teads245638586802.s.moatpixel.com
 127.0.0.1 va-lb.gumgum.com
+127.0.0.1 api.share.mob.com
 127.0.0.1 tr.snapchat.com
 127.0.0.1 data.coremetrics.com
 127.0.0.1 2712.api.swrve.com
@@ -8026,6 +8025,7 @@
 127.0.0.1 px.tvadsync.com
 127.0.0.1 pssvc.iqzone.com
 127.0.0.1 pushnami.com
+127.0.0.1 ads.msn.com
 127.0.0.1 slckg-nugvu.ads.tremorhub.com
 127.0.0.1 secure-ds.serving-sys.com
 127.0.0.1 trk.atomex.net

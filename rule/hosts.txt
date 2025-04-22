@@ -1,6 +1,6 @@
 [xndeye Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2025-04-22 16:29:39
+! Last Modified: 2025-04-23 00:27:59
 ! Homepage: https://github.com/xndeye/adblock_list
 ! 👇This Part Merge from: WindowsSpyBlocker (https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt)
 0.0.0.0 bn4sch101120911.wns.windows.com
@@ -454,7 +454,6 @@
 127.0.0.1 ad.caiyunapp.com
 127.0.0.1 dfe.mic.mob.com
 127.0.0.1 log.qchannel03.cn
-127.0.0.1 app.appsflyer.com
 127.0.0.1 www.qchannel04.cn
 127.0.0.1 uapi.ads.heytapmobi.com
 127.0.0.1 dm.bytedance.com
@@ -1031,7 +1030,6 @@
 127.0.0.1 jrj.adsame.com
 127.0.0.1 api.ts.feedback.qy.net
 127.0.0.1 ads.mobilityware.com
-127.0.0.1 d.applvn.com
 127.0.0.1 assets.cntdy.mobi
 127.0.0.1 zs12.cnzz.com
 127.0.0.1 launches.appsflyer.com
@@ -1181,11 +1179,9 @@
 127.0.0.1 de.as.pptv.com
 127.0.0.1 ykad-gateway.youku.com
 127.0.0.1 adstat.izuiyou.com
-127.0.0.1 t.appsflyer.com
 127.0.0.1 statics.woozooo.com
 127.0.0.1 ads.ninemsn.com.au
 127.0.0.1 wxa79ef55c1a84e284.wx.ckjr001.com
-127.0.0.1 ms.applvn.com
 127.0.0.1 api.jialiangad.com
 127.0.0.1 r2.adwo.com
 127.0.0.1 cdn.creative.medialytics.com
@@ -1727,7 +1723,6 @@
 127.0.0.1 oth.eve.mdt.qq.com
 127.0.0.1 imasdk.googleapis.com
 127.0.0.1 mobile.Banzai.it
-127.0.0.1 ads.creative-serving.com
 127.0.0.1 clientlog3.music.163.com
 127.0.0.1 nsclick.baidu.com
 127.0.0.1 edgecast-vod.yahoo.net
@@ -3177,7 +3172,6 @@
 127.0.0.1 dsp-d.ants.vn
 127.0.0.1 moatads.com
 127.0.0.1 soma-assets.smaato.net
-127.0.0.1 ads.yap.yahoo.com
 127.0.0.1 common.duapps.com
 127.0.0.1 samyonews-d.openx.net
 127.0.0.1 bs-geo.dvgtm.akadns.net
@@ -3261,7 +3255,6 @@
 127.0.0.1 87a6b28bc7823e67a5bb2a0a6728c702afcae78d.cws.conviva.com
 127.0.0.1 a1408.casalemedia.com
 127.0.0.1 load.sumome.com
-127.0.0.1 a.teads.tv
 127.0.0.1 secure.lomadee.com
 127.0.0.1 sdk.iad-03.appboy.com
 127.0.0.1 creative.eagllwin.com
@@ -3298,6 +3291,7 @@
 127.0.0.1 cdn4.buysellads.net
 127.0.0.1 pasta.sd.duapps.com
 127.0.0.1 wpr.hot-mob.com
+127.0.0.1 ads.creative-serving.com
 127.0.0.1 eastus.trafficmanager.inmobi.com
 127.0.0.1 vytomi.gotrackier.com
 127.0.0.1 roundrobin-log.agoop.net
@@ -3615,6 +3609,7 @@
 127.0.0.1 config.quantumgraph.com
 127.0.0.1 prod-bid.applovin.com
 127.0.0.1 cdn.izooto.com
+127.0.0.1 app.appsflyer.com
 127.0.0.1 geocdn.unityads.unity3d.com
 127.0.0.1 fota5p.adups.com
 127.0.0.1 cloud.ogury.io
@@ -4152,6 +4147,7 @@
 127.0.0.1 sdkconfig.ad.intl.xiaomi.com
 127.0.0.1 banner.appsflyer.com
 127.0.0.1 sdk.jeeng.com
+127.0.0.1 d.applvn.com
 127.0.0.1 tags.onscroll.com
 127.0.0.1 i.gridsumdissector.com
 127.0.0.1 tp-rtb-adserver-eu.eu-west-1.elasticbeanstalk.com
@@ -5356,7 +5352,6 @@
 127.0.0.1 smetrics.foxnews.com
 127.0.0.1 ads-api-new-2052271615.ap-northeast-1.elb.amazonaws.com
 127.0.0.1 imp-lb-us2.jampp.com
-127.0.0.1 ads.trafficjunky.net
 127.0.0.1 ib.anycast.adnxs.com
 127.0.0.1 digitru.st
 127.0.0.1 bannersnack.com
@@ -5804,7 +5799,6 @@
 127.0.0.1 tnc16-useast1a.isnssdk.com
 127.0.0.1 owb101.goo.ne.jp
 127.0.0.1 config.sdk.scopely.io
-127.0.0.1 ads.yieldmo.com
 127.0.0.1 sync.adap.tv
 127.0.0.1 adserver.iprom.net
 127.0.0.1 ext-inv-cdn.prod.cloud.ogury.io
@@ -5921,6 +5915,7 @@
 127.0.0.1 ceres.iad-03.braze.com
 127.0.0.1 san.push.io.edgekey.net
 127.0.0.1 ads.stickyadstv.com.akadns.net
+127.0.0.1 ms.applvn.com
 127.0.0.1 mboxedge28.tt.omtrdc.net
 127.0.0.1 wlplay.aniview.com
 127.0.0.1 sync.crwdcntrl.net
@@ -6659,7 +6654,6 @@
 127.0.0.1 log.smaato.net
 127.0.0.1 dynamic.criteo.com
 127.0.0.1 deloton.com
-127.0.0.1 ad.turn.com
 127.0.0.1 vihit.gotrackier.com
 127.0.0.1 s.update.tas.yieldmo.com
 127.0.0.1 outbrainimg.com.edgekey.net
@@ -7508,6 +7502,7 @@
 127.0.0.1 branch.io
 127.0.0.1 tt.onthe.io
 127.0.0.1 i.idio.co
+127.0.0.1 t.appsflyer.com
 127.0.0.1 cdn-3.convertexperiments.com.edgekey.net
 127.0.0.1 1188.content.swrve.com
 127.0.0.1 analysis.polarisoffice.com
@@ -8775,6 +8770,7 @@
 127.0.0.1 media.adsymptotic.com
 127.0.0.1 appgasstation.com
 127.0.0.1 ad5.contentabc.com
+127.0.0.1 ads.trafficjunky.net
 127.0.0.1 ad6.contentabc.com
 127.0.0.1 www.800086.com
 127.0.0.1 www.mathtype.cn
@@ -9526,6 +9522,7 @@
 127.0.0.1 rekovers.ru
 127.0.0.1 sha2024.com
 127.0.0.1 trackadsb1.com
+127.0.0.1 ads.yieldmo.com
 127.0.0.1 get-fuck-tonight-us4-foryou.dailynews.ovh
 127.0.0.1 fanqianbb.com
 127.0.0.1 ck.jads.co
@@ -10570,6 +10567,7 @@
 127.0.0.1 www.wangketuan.com
 127.0.0.1 www.zzxbn.com
 127.0.0.1 act.commercial.shouji.360.cn
+127.0.0.1 ads.yap.yahoo.com
 127.0.0.1 ad.adultfriendfinder.com
 127.0.0.1 go.padsdel.com
 127.0.0.1 newsupdatedir.info
@@ -10727,6 +10725,7 @@
 127.0.0.1 a5677cf.holoiv.com
 127.0.0.1 hntongwang.com
 127.0.0.1 www.266qqq.com
+127.0.0.1 a.teads.tv
 127.0.0.1 homeinformationpacks.j8inn1zektoe.com
 127.0.0.1 ok89okl.com
 127.0.0.1 www.4wad.com
@@ -11062,6 +11061,7 @@
 127.0.0.1 brokenteens.com
 127.0.0.1 cdn.ad4game.com
 127.0.0.1 www.adverster.com
+127.0.0.1 ad.turn.com
 127.0.0.1 ns1.exoclick.com
 127.0.0.1 spyoff.com
 127.0.0.1 dsp-click.youdao.com

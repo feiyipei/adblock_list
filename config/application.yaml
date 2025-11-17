@@ -70,12 +70,7 @@ application:
 
     - name: ad-pc
       path: https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad-pc.txt
-    - name: ad-mo
-      path: https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad-mo.txt
-    - name: ad2
-      path: https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad2.txt
-     - name: ad3
-       path: https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad3.txt
+
 
 
     - name: 'xndeye private adblock list'

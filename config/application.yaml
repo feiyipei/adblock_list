@@ -77,7 +77,7 @@ application:
 
     - name: ad2
 	  path: https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad2.txt
- 
+
 	- name: ad3
 	  path: https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad3.txt
 

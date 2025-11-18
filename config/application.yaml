@@ -378,33 +378,33 @@ application:
           - wildcard
           - unknown
 
-      - name: dns.txt
-        type: easylist
-        file_header: |
-          Title: xndeye adblock list of dns
-          Total Size: ${total}
-          Last Modified: ${date}
-          Homepage: https://github.com/xndeye/adblock_list
-        filter:
-          - basic
-          - wildcard
+#      - name: dns.txt
+#        type: easylist
+#        file_header: |
+#          Title: xndeye adblock list of dns
+#          Total Size: ${total}
+#          Last Modified: ${date}
+#          Homepage: https://github.com/xndeye/adblock_list
+#        filter:
+#          - basic
+#          - wildcard
 
-      - name: modify.txt
-        type: easylist
-        filter:
-          - unknown
+#      - name: modify.txt
+#        type: easylist
+#        filter:
+#          - unknown
 
-      - name: dnsmasq.conf
-        type: dnsmasq
+#      - name: dnsmasq.conf
+#        type: dnsmasq
 
-      - name: clash.yaml
-        type: clash
+#      - name: clash.yaml
+#        type: clash
 
-      - name: smartdns.conf
-        type: smartdns
+#      - name: smartdns.conf
+#        type: smartdns
 
-      - name: hosts
-        type: hosts
+#      - name: hosts
+#        type: hosts
 
   config:
 
